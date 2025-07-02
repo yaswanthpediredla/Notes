@@ -265,9 +265,9 @@ example: if(1), if(-1) both are **Truthy**
 
 ```bash
     var NPC = {
-        name = " Vivek " ;
-        age = 20 ;
-        city = " Tanuku " ;
+        name : " Vivek " ;
+        age : 20 ;
+        city : " Tanuku " ;
     }
 
     for( var key in NPC ){
